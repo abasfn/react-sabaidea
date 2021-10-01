@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-sabaidea/static/css/main.2e5cb30a.chunk.css",
-    "main.js": "/react-sabaidea/static/js/main.915f3896.chunk.js",
-    "main.js.map": "/react-sabaidea/static/js/main.915f3896.chunk.js.map",
+    "main.css": "/react-sabaidea/static/css/main.b856a030.chunk.css",
+    "main.js": "/react-sabaidea/static/js/main.6a133f15.chunk.js",
+    "main.js.map": "/react-sabaidea/static/js/main.6a133f15.chunk.js.map",
     "runtime-main.js": "/react-sabaidea/static/js/runtime-main.1e71d418.js",
     "runtime-main.js.map": "/react-sabaidea/static/js/runtime-main.1e71d418.js.map",
     "static/css/2.edbc4f62.chunk.css": "/react-sabaidea/static/css/2.edbc4f62.chunk.css",
-    "static/js/2.07a3e27b.chunk.js": "/react-sabaidea/static/js/2.07a3e27b.chunk.js",
-    "static/js/2.07a3e27b.chunk.js.map": "/react-sabaidea/static/js/2.07a3e27b.chunk.js.map",
+    "static/js/2.9b1b3f19.chunk.js": "/react-sabaidea/static/js/2.9b1b3f19.chunk.js",
+    "static/js/2.9b1b3f19.chunk.js.map": "/react-sabaidea/static/js/2.9b1b3f19.chunk.js.map",
     "static/js/3.32be42e3.chunk.js": "/react-sabaidea/static/js/3.32be42e3.chunk.js",
     "static/js/3.32be42e3.chunk.js.map": "/react-sabaidea/static/js/3.32be42e3.chunk.js.map",
     "index.html": "/react-sabaidea/index.html",
     "static/css/2.edbc4f62.chunk.css.map": "/react-sabaidea/static/css/2.edbc4f62.chunk.css.map",
-    "static/css/main.2e5cb30a.chunk.css.map": "/react-sabaidea/static/css/main.2e5cb30a.chunk.css.map",
-    "static/js/2.07a3e27b.chunk.js.LICENSE.txt": "/react-sabaidea/static/js/2.07a3e27b.chunk.js.LICENSE.txt",
+    "static/css/main.b856a030.chunk.css.map": "/react-sabaidea/static/css/main.b856a030.chunk.css.map",
+    "static/js/2.9b1b3f19.chunk.js.LICENSE.txt": "/react-sabaidea/static/js/2.9b1b3f19.chunk.js.LICENSE.txt",
     "static/media/H02.d984bfd5.png": "/react-sabaidea/static/media/H02.d984bfd5.png",
     "static/media/index.css": "/react-sabaidea/static/media/IRANSansBold.cd9ebcd6.ttf",
     "static/media/aparat-logo.6a20384e.svg": "/react-sabaidea/static/media/aparat-logo.6a20384e.svg",
@@ -56,8 +56,8 @@
   "entrypoints": [
     "static/js/runtime-main.1e71d418.js",
     "static/css/2.edbc4f62.chunk.css",
-    "static/js/2.07a3e27b.chunk.js",
-    "static/css/main.2e5cb30a.chunk.css",
-    "static/js/main.915f3896.chunk.js"
+    "static/js/2.9b1b3f19.chunk.js",
+    "static/css/main.b856a030.chunk.css",
+    "static/js/main.6a133f15.chunk.js"
   ]
 }
