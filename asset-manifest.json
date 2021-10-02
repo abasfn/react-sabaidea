@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-sabaidea/static/css/main.b856a030.chunk.css",
-    "main.js": "/react-sabaidea/static/js/main.6a133f15.chunk.js",
-    "main.js.map": "/react-sabaidea/static/js/main.6a133f15.chunk.js.map",
+    "main.js": "/react-sabaidea/static/js/main.fe69db50.chunk.js",
+    "main.js.map": "/react-sabaidea/static/js/main.fe69db50.chunk.js.map",
     "runtime-main.js": "/react-sabaidea/static/js/runtime-main.1e71d418.js",
     "runtime-main.js.map": "/react-sabaidea/static/js/runtime-main.1e71d418.js.map",
     "static/css/2.edbc4f62.chunk.css": "/react-sabaidea/static/css/2.edbc4f62.chunk.css",
@@ -58,6 +58,6 @@
     "static/css/2.edbc4f62.chunk.css",
     "static/js/2.9b1b3f19.chunk.js",
     "static/css/main.b856a030.chunk.css",
-    "static/js/main.6a133f15.chunk.js"
+    "static/js/main.fe69db50.chunk.js"
   ]
 }
