@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1817 -1264 86.5 70.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #ccc;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #dbf3ff;
+        stroke: #36a9e1;
+      }
+    </style>
+  </defs>
+  <g id="Group_2377" data-name="Group 2377" transform="translate(1428 -4087)">
+    <g id="Group_2372" data-name="Group 2372">
+      <g id="Group_2363" data-name="Group 2363">
+        <g id="Group_2353" data-name="Group 2353" transform="translate(-92 52)">
+          <line id="Line_727" data-name="Line 727" class="cls-1" x2="86.5" transform="translate(481 2840.2)"/>
+          <rect id="Rectangle_1933" data-name="Rectangle 1933" class="cls-2" width="58.372" height="44.543" transform="translate(495.675 2776.409)"/>
+          <line id="Line_730" data-name="Line 730" class="cls-2" x1="9.862" y2="17.056" transform="translate(514.946 2822.88)"/>
+          <line id="Line_731" data-name="Line 731" class="cls-2" x2="9.862" y2="17.056" transform="translate(524.808 2822.88)"/>
+          <line id="Line_732" data-name="Line 732" class="cls-2" y2="17.52" transform="translate(524.808 2822.88)"/>
+          <rect id="Rectangle_1934" data-name="Rectangle 1934" class="cls-3" width="65.461" height="7.426" rx="3" transform="translate(492.077 2816.918)"/>
+          <rect id="Rectangle_1935" data-name="Rectangle 1935" class="cls-3" width="65.461" height="7.426" rx="3" transform="translate(492.077 2772)"/>
+          <path id="Path_3707" data-name="Path 3707" class="cls-1" d="M9.1,32.791l8.958-11.7,7.861,6.764,7.5-5.3,8.5,5.393L47.584,14.6" transform="translate(496.479 2773.628)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

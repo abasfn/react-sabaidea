@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2116 -1267.656 58 74.19">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke: #ccc;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        stroke: #36a9e1;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #dbf3ff;
+      }
+    </style>
+  </defs>
+  <g id="Group_2375" data-name="Group 2375" transform="translate(1428 -4087)">
+    <g id="Group_2371" data-name="Group 2371">
+      <g id="Group_2362" data-name="Group 2362">
+        <g id="Group_2352" data-name="Group 2352" transform="translate(-185.5 -42)">
+          <line id="Line_726" data-name="Line 726" class="cls-1" x2="58" transform="translate(873.5 2934.5)"/>
+          <line id="Line_733" data-name="Line 733" class="cls-2" y2="33.631" transform="translate(902.527 2895.234)"/>
+          <path id="Subtraction_6" data-name="Subtraction 6" class="cls-3" d="M34.11,31.774H7.821V25.923A20.922,20.922,0,0,1,0,9.573V0H42.038V9.459L42,9.574a20.913,20.913,0,0,1-7.89,16.4v5.794Z" transform="translate(881.104 2902.428)"/>
+          <path id="Path_3712" data-name="Path 3712" class="cls-4" d="M27.347,36.847a25.694,25.694,0,0,0-7.531,19.472,25.813,25.813,0,0,0,27-27A25.694,25.694,0,0,0,27.347,36.847Z" transform="translate(882.594 2839.259)"/>
+          <line id="Line_734" data-name="Line 734" class="cls-2" x1="27.325" y2="26.274" transform="translate(902.648 2868.96)"/>
+          <path id="Path_3713" data-name="Path 3713" class="cls-4" d="M7.566,7.566A25.694,25.694,0,0,0,.034,27.038a25.7,25.7,0,0,0,19.472-7.532A25.694,25.694,0,0,0,27.038.034,25.694,25.694,0,0,0,7.566,7.566Z" transform="matrix(0.259, -0.966, 0.966, 0.259, 876.356, 2888.749)"/>
+          <line id="Line_735" data-name="Line 735" class="cls-2" x1="27.325" y2="26.274" transform="matrix(0.259, -0.966, 0.966, 0.259, 876.833, 2888.594)"/>
+          <path id="Path_3714" data-name="Path 3714" class="cls-5" d="M3978.6,4696.5s.262,7.579,5.014,10.816" transform="translate(-3091.611 -1784.45)"/>
+          <line id="Line_736" data-name="Line 736" class="cls-1" x2="3" transform="translate(911.5 2929)"/>
+          <line id="Line_737" data-name="Line 737" class="cls-1" x2="3" transform="translate(889.5 2929)"/>
+          <path id="Path_3716" data-name="Path 3716" class="cls-6" d="M4055.5,5028h3.748v5.668H4032.6V5028h22.9" transform="translate(-3144 -2099.135)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

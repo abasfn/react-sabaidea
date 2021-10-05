@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2101.5 -1042 86.5 70.197">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #ccc;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #dbf3ff;
+        stroke: #36a9e1;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_2374" data-name="Group 2374" transform="translate(1428 -4087)">
+    <line id="Line_728" data-name="Line 728" class="cls-1" x2="86.5" transform="translate(673.5 3114.197)"/>
+    <path id="Path_3708" data-name="Path 3708" class="cls-2" d="M15.394,5.366V5.6C15.276,9.5,11.5,12.917,8.2,14.1c-3.3-1.18-7.079-4.6-7.2-8.5V5.13A4.308,4.308,0,0,1,5.366,1,4.019,4.019,0,0,1,8.2,2.062,4.314,4.314,0,0,1,11.147,1a4.308,4.308,0,0,1,4.366,4.13C15.394,5.13,15.394,5.248,15.394,5.366Z" transform="translate(707.5 3045)"/>
+    <g id="Group_2367" data-name="Group 2367" transform="translate(-4.249)">
+      <path id="Path_3705" data-name="Path 3705" class="cls-3" d="M47.309,51.258H7.1V27.3H47.309Z" transform="translate(693.829 3049.313)"/>
+      <path id="Union_17" data-name="Union 17" class="cls-3" d="M12.5,35.25A6.88,6.88,0,0,1,5.812,30H0V6.037H8.281L11.411,0H24.538a.673.673,0,0,1,.707.671V2.2a4.112,4.112,0,0,1-4.141,3.833H17.268a.8.8,0,0,0-.808.479l-4.847,9.775c-.1.192.1.383.3.383h1.615a7.02,7.02,0,0,0,6.362-3.833l.1-.1h6.968l7.068,9.583A11.844,11.844,0,0,1,35.3,24.081a6.849,6.849,0,0,1,1.5,4.291v1.72a5.159,5.159,0,0,1-5.158,5.159Z" transform="translate(699.095 3070.576)"/>
+      <path id="Rectangle_1929" data-name="Rectangle 1929" class="cls-2" d="M0,0H4A3,3,0,0,1,7,3V20.958a3,3,0,0,1-3,3H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(741.138 3076.613)"/>
+      <path id="Rectangle_1931" data-name="Rectangle 1931" class="cls-2" d="M3,0H7A0,0,0,0,1,7,0V23.958a0,0,0,0,1,0,0H3a3,3,0,0,1-3-3V3A3,3,0,0,1,3,0Z" transform="translate(692.249 3076.613)"/>
+      <path id="Path_3715" data-name="Path 3715" class="cls-4" d="M3977.617,4695.958s-.316,2.875.536,4.038c1.179,1.607,3.072,4.131,5.46,7.32" transform="translate(4706.604 7797.362) rotate(180)"/>
+    </g>
+  </g>
+</svg>

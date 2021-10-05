@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2394 -1045 86.5 73.086">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #ccc;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #dbf3ff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #36a9e1;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #d9d9d9;
+      }
+    </style>
+  </defs>
+  <g id="Group_2378" data-name="Group 2378" transform="translate(1428 -4087)">
+    <g id="Group_2369" data-name="Group 2369">
+      <g id="Group_2368" data-name="Group 2368">
+        <path id="Path_3720" data-name="Path 3720" class="cls-1" d="M30.209,19.441h5.542c10.391,0,15.355,4.156,15.355,15.355V48.881h0V49a5.52,5.52,0,0,1-5.542,5.426c-3,0-5.08-2.54-5.542-5.542v-.115c-1.155-6.581-6.927-8.313-13.854-8.313h-.231c-6.927,0-12.7,1.732-13.854,8.313v.115c-.462,3-2.54,5.542-5.542,5.542A5.543,5.543,0,0,1,1,48.881v-.115H1V34.8C1,23.6,5.964,19.441,16.355,19.441h9.583V15.4" transform="translate(983.35 3046.464)"/>
+        <path id="Path_3721" data-name="Path 3721" class="cls-2" d="M19.877,28.434H15.028V23.7H11.334v4.734H6.6v3.694h4.734v4.734h3.694V32.128h4.849Z" transform="translate(984.215 3047.747)"/>
+        <g id="Group_2348" data-name="Group 2348" transform="translate(1021.526 3071.447)">
+          <circle id="Ellipse_750" data-name="Ellipse 750" class="cls-2" cx="1.847" cy="1.847" r="1.847"/>
+          <circle id="Ellipse_751" data-name="Ellipse 751" class="cls-2" cx="1.847" cy="1.847" r="1.847" transform="translate(0 9.467)"/>
+        </g>
+        <g id="Group_2349" data-name="Group 2349" transform="translate(1017.023 3076.18)">
+          <circle id="Ellipse_752" data-name="Ellipse 752" class="cls-1" cx="1.847" cy="1.847" r="1.847"/>
+          <circle id="Ellipse_753" data-name="Ellipse 753" class="cls-1" cx="1.847" cy="1.847" r="1.847" transform="translate(9.005)"/>
+        </g>
+        <g id="Group_2350" data-name="Group 2350" transform="translate(989 3049.787)">
+          <line id="Line_84" data-name="Line 84" class="cls-3" x2="12.045" transform="translate(31.834 8.517) rotate(-45)"/>
+          <line id="Line_85" data-name="Line 85" class="cls-3" x2="12.045" transform="translate(0 0) rotate(45)"/>
+        </g>
+        <line id="Line_738" data-name="Line 738" class="cls-4" x2="12.045" transform="translate(1009.248 3042) rotate(90)"/>
+      </g>
+      <line id="Line_724" data-name="Line 724" class="cls-5" x2="86.5" transform="translate(966 3114.086)"/>
+    </g>
+  </g>
+</svg>
